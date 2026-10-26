@@ -32,15 +32,15 @@ I am a first-year Ph.D. student at the [Paul G. Allen School of Computer Science
 
 My research focuses on **recursively self-improving agent systems**. I am particularly interested in:
 
-- **Self-evolving agent systems** that create, curate, and reuse their own tools and skills ([Alita](https://arxiv.org/abs/2505.20286), [Alita-G](https://arxiv.org/abs/2510.23601), [Survey of Self-Evolving Agents](https://arxiv.org/abs/2507.21046))
-- **Agentic reinforcement learning** and post-training for long-horizon agents
-- **Agent memory and agent world models** ([PORTAL](https://openreview.net/forum?id=66wrKhsNeA), [Understanding Is Done Early](https://arxiv.org/abs/2607.28263))
+- **Self-evolving agent systems** that leverage signals from their environment to improve themselves ([Alita](https://arxiv.org/abs/2505.20286), [Alita-G](https://arxiv.org/abs/2510.23601), [Survey of Self-Evolving Agents](https://arxiv.org/abs/2507.21046))
+- **Long-horizon agent benchmarks and test-time scaling** ([EdgeBench](https://arxiv.org/abs/2607.05155))
+- **Agentic reinforcement learning and agent memory** ([PORTAL](https://openreview.net/forum?id=66wrKhsNeA), [Understanding Is Done Early](https://arxiv.org/abs/2607.28263))
 
 **Internships & Research:**
 
-- **Xiaohongshu HI Lab, Pretraining Department** (Mar–Aug 2026): recursively self-improving AI agent harness and post-training (ACE Top Intern Program)
+- **Xiaohongshu HI Lab** (Mar–Aug 2026): recursively self-improving AI agent harness and post-training (ACE Top Intern Program)
 - **Reinforce Omega AI Start-up** (Sept 2025–Feb 2026): AI agent workflows, tool-use systems, and agent memory
-- **University of Pennsylvania, Cognitive Computation Group** (May–Aug 2025): [Demystifying Supervision Data Generalization in Multimodal LMs](https://openreview.net/forum?id=iYMZKz5BGz) (Advisor: [Prof. Dan Roth](https://cogcomp.seas.upenn.edu/page/instructor/1))
+- **University of Pennsylvania, Cognitive Computation Group** (May–Aug 2025): multimodal reasoning for VLMs; [Demystifying Supervision Data Generalization in Multimodal LMs](https://openreview.net/forum?id=iYMZKz5BGz) (Advisor: [Prof. Dan Roth](https://cogcomp.seas.upenn.edu/page/instructor/1))
 - **Princeton University, Wang Lab** (Nov 2024–Feb 2026): Co-led [Alita](https://arxiv.org/abs/2505.20286) and [Alita-G](https://arxiv.org/abs/2510.23601) (Advisor: [Prof. Mengdi Wang](https://mwang.princeton.edu/))
 
-I serve as a reviewer for **ICLR 2026/2027**, **NeurIPS 2026**, **ICML 2026**, **COLM 2026**, **AAAI 2026**, and **ACL Rolling Review**. Outside research, I am a passionate Go player (3rd place, _San Yi Cup_ National Dan Promotion Tournament).
+I serve as a reviewer for **ICLR 2026/2027**, **NeurIPS 2026**, **ICML 2026**, **COLM 2026**, **AAAI 2026**, and **ACL Rolling Review**. Outside research, I am a passionate Go player.
